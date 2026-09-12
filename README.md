@@ -2,26 +2,25 @@
 
 ### Full-Stack Developer | JavaScript | React | Node.js | MongoDB
 
-I’m a developer focused on building **modern, scalable, and user-centric web applications**. I enjoy working across the full development lifecycle — from designing responsive interfaces and building backend services to integrating databases, APIs, cloud services, and third-party platforms.
+I’m a **Full-Stack Developer** focused on building modern, responsive, and user-centric web applications. I enjoy working across the complete development lifecycle — from designing interfaces and developing backend APIs to integrating databases, third-party services, and cloud platforms.
 
-My current focus is on strengthening my **full-stack development skills**, building production-oriented projects, and learning how to design applications with clean architecture, maintainable code, and a strong user experience.
+Currently, I’m focused on strengthening my **JavaScript, React, Node.js, Express.js, and MongoDB** skills while building production-oriented projects and improving my understanding of scalable application architecture.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Full-stack web development enthusiast
-* ⚛️ Building modern interfaces with **React.js**
+* 💻 Full-Stack Web Developer
+* ⚛️ Building modern applications with **React.js**
 * 🟢 Developing backend applications with **Node.js & Express.js**
 * 🍃 Working with **MongoDB & Mongoose**
-* 🎨 Interested in UI/UX, responsive design, and frontend architecture
-* ☁️ Exploring cloud-based services and API integrations
-* 🗺️ Working with location-based services and mapping APIs
-* 🖼️ Integrating cloud image management
-* 🔐 Learning authentication, authorization, validation, and secure application design
+* 🔐 Implementing authentication, authorization, and validation
+* 🌐 Building and integrating REST APIs
+* ☁️ Working with cloud services and third-party APIs
+* 🗺️ Exploring location-based services and interactive maps
+* 🖼️ Working with cloud-based image management
 * 🤖 Exploring practical **AI integration in web applications**
-* 🌱 Continuously improving software architecture and development practices
-* 🔧 Strong interest in debugging, problem-solving, and building real-world applications
+* 🔧 Enjoy solving problems, debugging applications, and learning new technologies
 
 ---
 
@@ -39,8 +38,9 @@ My current focus is on strengthening my **full-stack development skills**, build
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
 
 ### Backend
@@ -48,6 +48,7 @@ My current focus is on strengthening my **full-stack development skills**, build
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" />
 </p>
 
 ### Database
@@ -62,208 +63,90 @@ My current focus is on strengthening my **full-stack development skills**, build
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
 # 💼 Featured Project
 
-## 🏨 Voyago — Hotel Discovery & Travel Platform
+## 🏨 WanderLust — Hotel & Property Listing Platform
 
-A full-stack travel platform focused on creating a modern hotel discovery and listing experience.
+**🚀 Live Demo:** https://horizone-rnn3.onrender.com
 
-The project combines frontend development, backend architecture, database management, API integration, location services, image management, and user-oriented features.
+WanderLust is a **full-stack hotel and property listing platform** that allows users to discover, search, and manage accommodation listings through a modern travel-focused interface.
 
-### Key Features
+The application demonstrates real-world full-stack development concepts including authentication, authorization, CRUD operations, MongoDB relationships, cloud image storage, location services, interactive maps, reviews, ratings, favorites, and search functionality.
 
-* 🏠 Modern responsive homepage
-* 🔎 Hotel search and discovery
-* 🏨 Dynamic hotel listings
-* 📍 Location-based functionality
-* 🗺️ Interactive map integration
-* ❤️ Favorite listings
-* ⭐ Hotel ratings and reviews
-* ✏️ Listing creation and editing
-* 🖼️ Cloud-based image management
-* 🔐 Validation and backend security
-* 📱 Responsive layouts
-* ⚡ Dynamic server-side rendering
-* 🤖 Exploring AI-powered features
+### ✨ Key Features
 
-### Architecture
+* 🏠 Create, update, view, and delete property listings
+* 🔐 User authentication and authorization
+* 👤 Listing ownership and protected routes
+* 🔎 Search properties by location, country, and title
+* 🏷️ Category-based property filtering
+* ❤️ Add and manage favorite properties
+* ⭐ Property reviews and 1–5 star ratings
+* 📊 Average ratings and review statistics
+* 🗺️ Interactive property maps using Leaflet
+* 📍 Location geocoding using Nominatim
+* 🖼️ Cloud-based image uploads using Cloudinary
+* 📱 Responsive user interface
+* ⚡ Server-side rendering with EJS
+* 🛡️ Backend validation and centralized error handling
+* ☁️ Deployed application using Render and MongoDB Atlas
 
-```text
-                    ┌─────────────────┐
-                    │    Frontend     │
-                    │ React / EJS     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Backend     │
-                    │ Node + Express  │
-                    └────────┬────────┘
-                             │
-               ┌─────────────┼─────────────┐
-               ▼             ▼             ▼
-        ┌────────────┐ ┌────────────┐ ┌────────────┐
-        │  MongoDB   │ │  Map APIs  │ │ Cloudinary │
-        │  Database  │ │  Location  │ │   Images   │
-        └────────────┘ └────────────┘ └────────────┘
-```
+### 🛠️ Built With
 
----
+**Frontend:** EJS, HTML5, CSS3, JavaScript, Bootstrap, Leaflet.js
 
-# 🧠 Development Focus
+**Backend:** Node.js, Express.js, Passport.js, Express Session, Joi, Multer
 
-I’m currently focused on becoming stronger in the areas that matter when building production-quality applications.
+**Database:** MongoDB, MongoDB Atlas, Mongoose
 
-### Frontend Engineering
+**Services:** Cloudinary, OpenStreetMap, Nominatim, Render
 
-* Component-based development
-* Responsive layouts
-* UI/UX implementation
-* State management
-* API integration
-* Reusable components
-* Accessibility
-* Performance optimization
+### 🔗 Project
 
-### Backend Engineering
-
-* RESTful APIs
-* Express.js architecture
-* Middleware
-* CRUD operations
-* Authentication & authorization
-* Input validation
-* Error handling
-* API integration
-* Application security
-
-### Database
-
-* MongoDB
-* Mongoose
-* Schema design
-* Data relationships
-* CRUD operations
-* Query optimization
-
-### Software Development
-
-* Git workflows
-* Branch-based development
-* Debugging
-* Code organization
-* Reusable architecture
-* Environment configuration
-* Third-party service integration
+<p>
+  <a href="https://horizone-rnn3.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-success?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-# 🔭 Currently Exploring
+# 🧠 What I'm Working On
 
-```text
-React
-  ↓
-Advanced JavaScript
-  ↓
-Full-Stack Architecture
-  ↓
-REST APIs
-  ↓
-Authentication & Authorization
-  ↓
-Cloud Services
-  ↓
-AI Integration
-  ↓
-Production Deployment
-```
-
-My goal is to understand not only **how to write code**, but also **how to design and maintain complete applications**.
+* ⚛️ Advanced React.js
+* 🟢 Node.js & Express.js
+* 🗄️ MongoDB and database design
+* 🔐 Authentication & application security
+* 🌐 REST API development
+* ☁️ Cloud deployment and services
+* 🐳 Docker and deployment workflows
+* 🤖 AI-powered web applications
+* 🧪 Testing and production development practices
 
 ---
 
-# 📌 Engineering Principles
+# 🎯 Career Goals
 
-### Clean Code
+I’m working toward becoming a strong **professional Full-Stack Developer** capable of designing, developing, deploying, and maintaining complete web applications.
 
-I aim to write code that is readable, maintainable, and easy to extend.
+My focus is on building software that is:
 
-### Component Reusability
-
-I prefer reusable components and modular architecture instead of duplicating functionality.
-
-### Responsive Design
-
-Applications should provide a consistent experience across desktop, tablet, and mobile devices.
-
-### User Experience
-
-Good software is not only technically correct — it should also be intuitive and pleasant to use.
-
-### Continuous Learning
-
-Technology constantly evolves, so I continuously experiment with new tools, frameworks, APIs, and development practices.
-
----
-
-# 📈 My Development Journey
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Frontend Development
-     ↓
-Node.js + Express
-     ↓
-MongoDB + Mongoose
-     ↓
-Full-Stack Applications
-     ↓
-React
-     ↓
-Cloud & API Integrations
-     ↓
-AI-powered Applications
-```
-
----
-
-# 🎯 Goals
-
-### Near-Term
-
-* Build more production-quality full-stack applications
-* Deepen my React and JavaScript knowledge
-* Improve backend architecture
-* Strengthen database design skills
-* Learn better testing practices
-* Improve application security
-* Learn modern deployment workflows
-
-### Long-Term
-
-Build expertise as a **professional full-stack developer** capable of taking an application from concept to production.
-
-I want to build software that is:
-
-**Scalable • Maintainable • Secure • Responsive • User-focused**
+**Scalable • Maintainable • Secure • Responsive • User-Focused**
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKantode&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuKantode&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -271,35 +154,24 @@ I want to build software that is:
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ShantanuKantode&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://github.com/ShantanuKantode">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shantanu-kantode">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-# 💬 Let's Build Something
-
-I'm interested in collaborating on **web applications, open-source projects, and challenging development problems**.
-
-If you're building something interesting, feel free to connect.
-
----
-
 <p align="center">
-  <b>Build. Learn. Ship. Improve. 🚀</b>
+  <b>🚀 Build • Learn • Ship • Improve</b>
 </p>
